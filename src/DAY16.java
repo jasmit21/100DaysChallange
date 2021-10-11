@@ -14,7 +14,7 @@ public class DAY16 {
         }
 
         for (int i =0;i<size;i++){
-            System.out.println("Element No. "+ (i+1) +" ="+arr[i]);
+            System.out.println("Element No.  "+ (i+1) +" ="+arr[i]);
         }
     }
 }
